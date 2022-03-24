@@ -8,7 +8,7 @@ No extra libraries needs to be installed as all the libraries used here comes up
 
 ## Project Motivation 
 
-Incident managment has huge oppertunity around ML use case as these get generated from huge event log data. Here I thought to analyze Incident event data to see what hidden patterns will help us to come up with impactful ML use case.
+Incident managment has huge opportunity around ML use case as these get generated from huge event log data. Here I thought to analyze Incident event data to see what hidden patterns will help us to come up with impactful ML use case.
 
 ## File Descriptions 
 
